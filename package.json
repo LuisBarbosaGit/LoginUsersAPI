@@ -11,14 +11,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/express": "^5.0.1",
-    "@types/node": "^22.14.0",
     "express": "^5.1.0"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.8",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.14.1",
     "i": "^0.3.7",
     "tsc-watch": "^6.2.1",
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.3"
   }
 }
