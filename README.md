@@ -1,7 +1,7 @@
 ﻿# LoginUsersAPI
 
  #Extra:
- Cpmo instalar e condigurar typescript no seu projeto de API.
+ =Como instalar e condigurar typescript no seu projeto de API.
 
  1-npm i typescript -d
  
