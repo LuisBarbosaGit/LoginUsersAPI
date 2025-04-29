@@ -15,3 +15,7 @@ export async function criarHash(senha: string): Promise<string> {
   const hash = await bcrypt.hash(senha, saltRounds);
   return hash;
 }
+
+export async function login(req : Request) {
+    
+}
